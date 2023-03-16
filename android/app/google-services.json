@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858979731903",
+    "firebase_url": "https://datamrm-6fa64-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "datamrm-6fa64",
+    "storage_bucket": "datamrm-6fa64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858979731903:android:d88f97726f82e5ea0b790a",
+        "android_client_info": {
+          "package_name": "firaskaabi.flutter.mrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858979731903-kth4s52jsm0eqi9a1lf45lvh6lhlnsn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJing1oSNRs4clSlykWl55m4KwOrD-F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858979731903-kth4s52jsm0eqi9a1lf45lvh6lhlnsn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
